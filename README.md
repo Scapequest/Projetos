@@ -15,7 +15,7 @@ Aqui estão listados os conteúdos organizadas por disciplina:
     * [Prova P1 - Teste de conhecimento dos conteúdos anteriores](https://github.com/Scapequest/Projetos/tree/main/Algoritmos_Logica_Programacao/Prova_P1)
     * [Estrutura de Repetição Sem Contador - Uso do loop While sem limite de repetições](https://github.com/Scapequest/Projetos/tree/main/Algoritmos_Logica_Programacao/Estrutura_Repeticao_Sem_Contador)
     * [Vetor - Primeira uso de listas](https://github.com/Scapequest/Projetos/tree/main/Algoritmos_Logica_Programacao/Vetor)
-    * [Matriz - Uso avançado das listas](https://github.com/Scapequest/Projetos/tree/main/Algoritmos_Logica_Programacao/Matriz)
+    * [Matriz - Uso avançado das listas](https://github.com/Scapequest/Projetos/tree/main/Algoritmos_Logica_Programacao/Matriz) [Com destaque]
     * [Prova P2 - Teste de conhecimento dos conteúdos anteriores](https://github.com/Scapequest/Projetos/tree/main/Algoritmos_Logica_Programacao/Prova_P2)
 
 
@@ -25,7 +25,7 @@ Aqui estão listados os conteúdos organizadas por disciplina:
     * [Função SEM Parâmetro e COM Retorno](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/sem_parametro_com_retorno)
     * [Função COM Parâmetro e COM Retorno](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/com_parametro_com_retorno)
     * [Prova P1 - Teste de conhecimento dos conteúdos anteriores](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/prova_p1)
-    * [Estrutura de Dados - Uso de Class para criar váriaveis com dados heterogêneos](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/estrutura_dados)
+    * [Estrutura de Dados - Uso de Class para criar váriaveis com dados heterogêneos](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/estrutura_dados) [Com destaque]
 
 ## Organização
 
