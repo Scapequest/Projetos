@@ -26,6 +26,7 @@ Aqui estão listados os conteúdos organizadas por disciplina:
     * [Função COM Parâmetro e COM Retorno](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/com_parametro_com_retorno)
     * [Prova P1 - Teste de conhecimento dos conteúdos anteriores](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/prova_p1)
     * [Estrutura de Dados - Uso de Class para criar váriaveis com dados heterogêneos](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/estrutura_dados) [Com destaque]
+    * [Arquivos - Criação, leitura e manipulação de arquivos de texto](https://github.com/Scapequest/Projetos/tree/main/Logica_Programacao/arquivos)
 
 ## Organização
 
